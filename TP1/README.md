@@ -7,7 +7,7 @@ Andre Filipe Dourado Pinheiro, A108473
 
 ### Solução:
 ```regex
-1*(0+1)*0*
+^1*(0+1)*0*$
 ```
 
 ### Explicação:
