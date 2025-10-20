@@ -1,0 +1,22 @@
+[
+  {"cod": "A23", "nome": "água 0.5L", "quant": 8, "preco": 0.7},
+  {"cod": "B11", "nome": "refrigerante lata 330ml", "quant": 15, "preco": 1.2},
+  {"cod": "C07", "nome": "sumo natural 250ml", "quant": 10, "preco": 1.5},
+  {"cod": "D45", "nome": "bolacha maria 200g", "quant": 20, "preco": 0.9},
+  {"cod": "E32", "nome": "chocolate barra 100g", "quant": 12, "preco": 1.8},
+  {"cod": "F18", "nome": "batata frita pacote 50g", "quant": 25, "preco": 1.0},
+  {"cod": "G21", "nome": "sandes de fiambre", "quant": 6, "preco": 2.5},
+  {"cod": "H30", "nome": "croissant simples", "quant": 14, "preco": 1.3},
+  {"cod": "I09", "nome": "café expresso", "quant": 50, "preco": 0.6},
+  {"cod": "J14", "nome": "chá quente", "quant": 40, "preco": 0.8},
+  {"cod": "K02", "nome": "água 1.5L", "quant": 10, "preco": 1.0},
+  {"cod": "L25", "nome": "iogurte natural 125g", "quant": 18, "preco": 0.9},
+  {"cod": "M12", "nome": "maçã unidade", "quant": 30, "preco": 0.5},
+  {"cod": "N08", "nome": "banana unidade", "quant": 25, "preco": 0.4},
+  {"cod": "O55", "nome": "bolo de chocolate", "quant": 7, "preco": 2.0},
+  {"cod": "P44", "nome": "pastel de nata", "quant": 16, "preco": 1.2},
+  {"cod": "Q37", "nome": "sumo de laranja 500ml", "quant": 9, "preco": 1.7},
+  {"cod": "R63", "nome": "leite achocolatado 200ml", "quant": 11, "preco": 1.0},
+  {"cod": "S20", "nome": "cereal bar", "quant": 22, "preco": 1.1},
+  {"cod": "T05", "nome": "pão com manteiga", "quant": 10, "preco": 0.9}
+]
