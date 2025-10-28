@@ -6,4 +6,5 @@ Andre Filipe Dourado Pinheiro, A108473
 ## Lista de resultados:
 
 A lista do stock da máquina pode ser encontrada [aqui](./stock.json)
+
 O script da máquina pode ser encontrado [aqui](./vending.py)
