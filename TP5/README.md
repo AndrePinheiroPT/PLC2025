@@ -5,7 +5,7 @@ Andre Filipe Dourado Pinheiro, A108473
 
 ## Lista de resultados:
 
-O script da máquina pode ser encontrados:
+Os scripts utilizados para fazer o Parser podem ser encontrados em:
 1. [Analex](./analex.py)
 2. [Anasin](./anasin.py)
 3. [Main script](./aritmetica.py)
